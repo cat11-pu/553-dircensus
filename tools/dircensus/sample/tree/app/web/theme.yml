@@ -1,0 +1,9 @@
+theme: compact
+
+# top level comment
+palette:
+  # indented comment is code
+  fg: "#111"
+  bg: "#eee"
+
+  hidden: true

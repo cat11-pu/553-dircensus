@@ -1,0 +1,3 @@
+release checklist
+- bump version
+- run census

@@ -1,0 +1,3 @@
+[deploy]
+zone = "example-1"
+replicas = 3
